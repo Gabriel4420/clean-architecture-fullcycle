@@ -51,6 +51,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Node.js](https://nodejs.org/en/)
 - [Jest](https://jestjs.io/pt-BR/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [Pg-promise](http://vitaly-t.github.io/pg-promise/)
 
 ## :white_check_mark: Pré requisitos ##
 
