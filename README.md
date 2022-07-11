@@ -44,12 +44,26 @@ Live Fullcycle sobre clean arquitecture, desacoplamento, tecnicas básicas de TD
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-<a href="https://hapi.dev/" target="blank" rel="nofollow noreferrer"> Hapi </a>
-<a href="https://expressjs.com/pt-br/" target="blank" rel="nofollow noreferrer">Express</a>
-<a href="https://nodejs.org/en/" target="blank" rel="nofollow noreferrer">NodeJS </a>
-<a href="https://jestjs.io/pt-BR/" target="blank" rel="nofollow noreferrer">Jest </a>
-<a href="https://www.typescriptlang.org/" target="blank" rel="nofollow noreferrer">Typescript</a>
-<a href="http://vitaly-t.github.io/pg-promise/" target="blank" rel="nofollow noreferrer">Pg-Promise</a>
+<ul>
+  <li>
+    <a href="https://hapi.dev/" target="blank" rel="nofollow noreferrer"> Hapi </a>
+  </li>
+  <li>
+    <a href="https://expressjs.com/pt-br/" target="blank" rel="nofollow   noreferrer">Express</a>
+  </li>
+  <li>
+    <a href="https://nodejs.org/en/" target="blank" rel="nofollow noreferrer">NodeJS </a>
+  </li>
+  <li>
+    <a href="https://jestjs.io/pt-BR/" target="blank" rel="nofollow noreferrer">Jest </a>
+  </li>
+  <li>
+    <a href="https://www.typescriptlang.org/" target="blank" rel="nofollow noreferrer">Typescript</a>
+  </li>
+  <li>
+    <a href="http://vitaly-t.github.io/pg-promise/" target="blank" rel="nofollow noreferrer">Pg-Promise</a>
+  </li>
+</ul>
 
 ## :white_check_mark: Pré requisitos
 
