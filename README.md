@@ -1,7 +1,7 @@
 <div align="center" id="top"> 
   <img src="https://yt3.ggpht.com/ytc/AKedOLRC2CnAqG9QkXwbZk_6cXic-h0rYmoACmuGDpTu=s900-c-k-c0x00ffffff-no-rj" alt="Clean Architecture Fullcycle" />
 
-  &#xa0;
+&#xa0;
 
 </div>
 
@@ -16,9 +16,7 @@
 
   <img alt="Licença" src="https://img.shields.io/github/license/Gabriel4420/clean-architecture-fullcycle?color=56BEB8">
 
- 
 </p>
-
 
 <p align="center">
   <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0; 
@@ -32,32 +30,32 @@
 
 <br>
 
-## :dart: Sobre ##
+## :dart: Sobre
 
 Live Fullcycle sobre clean arquitecture, desacoplamento, tecnicas básicas de TDD, esclarecimento de duvidas, dentre diversas outras atividades.
 
-## :sparkles: Funcionalidades ##
+## :sparkles: Funcionalidades
 
-:heavy_check_mark: Integração com postgres ;\
-:heavy_check_mark: Possibilidade do uso de 2 frameworks para construção de apis (hapi, express) 2;\
-:heavy_check_mark: Funcionalidade 3;
+:heavy_check_mark: Integração com postgres \
+:heavy_check_mark: Possibilidade do uso de 2 frameworks para construção de apis (hapi, express) 2\
+:heavy_check_mark: Funcionalidade 3
 
-## :rocket: Tecnologias ##
+## :rocket: Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [Hapi](https://hapi.dev/)
-- [Express](https://expressjs.com/pt-br/)
-- [Node.js](https://nodejs.org/en/)
-- [Jest](https://jestjs.io/pt-BR/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Pg-promise](http://vitaly-t.github.io/pg-promise/)
+<a href="https://hapi.dev/" target="blank" rel="nofollow noreferrer"> Hapi </a>
+<a href="https://expressjs.com/pt-br/" target="blank" rel="nofollow noreferrer">Express</a>
+<a href="https://nodejs.org/en/" target="blank" rel="nofollow noreferrer">NodeJS </a>
+<a href="https://jestjs.io/pt-BR/" target="blank" rel="nofollow noreferrer">Jest </a>
+<a href="https://www.typescriptlang.org/" target="blank" rel="nofollow noreferrer">Typescript</a>
+<a href="http://vitaly-t.github.io/pg-promise/" target="blank" rel="nofollow noreferrer">Pg-Promise</a>
 
-## :white_check_mark: Pré requisitos ##
+## :white_check_mark: Pré requisitos
 
 Antes de começar :checkered_flag:, você precisa ter o [Git](https://git-scm.com) e o [Node](https://nodejs.org/en/) instalados em sua maquina.
 
-## :checkered_flag: Começando ##
+## :checkered_flag: Começando
 
 ```bash
 # Clone este repositório
@@ -72,7 +70,7 @@ $ yarn start
 # O app vai inicializar em <http://localhost:3000>
 ```
 
-## :memo: Licença ##
+## :memo: Licença
 
 Este projeto está sob licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
