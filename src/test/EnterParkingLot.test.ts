@@ -25,7 +25,7 @@ test('Should enter parking lot', async () => {
   )
   const parkingLotAfterEnter = await getParkingLot.execute('Shopping')
   expect(parkingLotAfterEnter.occupiedSpaces).toBe(1)
-  // expect(parkingLot.code).toBe('Shopping')
+ 
 })
 
 test.skip('Should be closed', async () => {
