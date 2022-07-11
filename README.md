@@ -46,7 +46,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <ul>
   <li>
-    <a href="https://hapi.dev/" target="_blank" rel="nofollow noreferrer"> Hapi </a>
+    <a href="https://hapi.dev/" target="blank" rel="nofollow noreferrer"> Hapi </a>
   </li>
   <li>
     <a href="https://expressjs.com/pt-br/" target="blank" rel="nofollow   noreferrer">Express</a>
