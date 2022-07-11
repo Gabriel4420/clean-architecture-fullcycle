@@ -75,9 +75,27 @@ $ yarn start
 
 Este projeto está sob licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
-
-Feito com :heart: por <a href="https://github.com/Gabriel4420" target="_blank">Gabriel Rodrigues Perez</a>
-
 &#xa0;
 
 <a href="#top">Voltar para o topo</a>
+
+&#xa0;
+
+<h4 align="center">
+  Feito com ❤️ por Gabriel Rodrigues �️ <a href="mailto:gabriel_rodrigues_perez@hotmail.com">Entre em contato!</a>
+</h4>
+
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/gabriel-rodrigues-perez-2069b072/">
+    <img alt="Gabriel Rodrigues Perez" src="https://img.shields.io/badge/LinkedIn-Gabriel_Rodrigues-0e76a8?style=flat&logoColor=white&logo=linkedin">
+  </a>
+  <a href="https://www.facebook.com/gabriel.rodrigues.perez">
+    <img alt="Gabriel Rodrigues Perez" src="https://img.shields.io/badge/Facebook-Gabriel_Rodrigues-1778F2?style=flat&logoColor=white&logo=facebook">
+  </a>
+  <a href="https://www.instagram.com/gabriel_rodrigues_perez/">
+    <img alt="Gabriel Rodrigues Perez" src="https://img.shields.io/badge/Instagram-@gabriel4420-833AB4?style=flat&logoColor=white&logo=instagram">
+  </a>
+  
+  
+</p>
